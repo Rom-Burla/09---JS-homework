@@ -6,8 +6,8 @@ let spiderMan = {
   index: 0,
   name: "Spiderman",
   superpowers: "Webswinging and wall crawling",
-  color: function suit(elem, color) {
-    elem.style.backgroundColor = color;
+  color: function suit(tzvika, moshe) {
+    tzvika.style.backgroundColor = moshe;
   },
 };
 superHeroes.push(spiderMan);
